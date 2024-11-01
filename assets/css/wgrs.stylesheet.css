@@ -1,0 +1,18 @@
+.pagination{text-align: right}
+.pagination a, 
+.pagination .current,
+.pagination .disabled{margin: 5px; font-size: 16px;}
+.caption{position: absolute; color: #222;}
+.caption.left_top{top: 0;left: 0; text-align: left;}
+.caption.left_bottom{bottom: 0; left: 0; text-align: right;}
+.caption.right_top{top: 0; right: 0; text-align: right;}
+.caption.right_bottom{bottom: 0; right: 0; text-align: right;}
+.caption-title{padding: 10px 15px; background: #3aaea8; opacity: 0.98;}
+.owl-dots{text-align: center;}
+.owl-carousel button.owl-dot{background: #cdcdcd;padding: 8px !important;border-radius: 8px;margin: 5px;}
+.owl-carousel button.owl-dot.active{background: #999999;}
+.owl-nav{position: absolute; right: 0; bottom: -16px;}
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev{font-size: 36px;}
+.owl-carousel .owl-nav button.owl-next, 
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel button.owl-dot{outline-style: none;}
